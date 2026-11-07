@@ -38,5 +38,6 @@ I'm also an active bug bounty hunter on HackerOne, Bugcrowd, Intigriti and YesWe
 | HackerOne | [t-66](https://hackerone.com/t-66) |
 | Bugcrowd | [T-67](https://bugcrowd.com/h/T-67) |
 | Intigriti | [t_67](https://app.intigriti.com/researcher/profile/t_67) |
+| YesWeHack | [t-67](https://yeswehack.com/hunters/t-67) |
 | Hack The Box | [Profile](https://profile.hackthebox.com/profile/01a1b5a9-6648-7068-8ffc-cc678021651d) |
 | Patchstack | [Researcher profile](https://patchstack.com/database/researchers/2c5f99b5-ccfe-41e7-be10-43335f9bf195) |
