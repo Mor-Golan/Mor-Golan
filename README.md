@@ -10,7 +10,7 @@ Mor Golan is an OSCP-certified cybersecurity team lead and vulnerability researc
 
 - **10 published CVEs** in WordPress plugins, up to CVSS 9.3 Critical ([full list](https://mor-golan.github.io/cves/))
 - **OSCP**, Offensive Security Certified Professional
-- **Hack The Box:** top 0.07% on the Penetration Tester path, Dante Pro Lab
+- **Hack The Box:** Penetration Tester path (a badge held by 0.07% of users), Dante Pro Lab
 - **HackerOne:** Level 2 Signal Specialist
 - **Bugcrowd:** Hall of Fame, Submission Shogun Level 2, Bounty Bee Level 2
 - **Intigriti:** Bronze Finder Level 1
