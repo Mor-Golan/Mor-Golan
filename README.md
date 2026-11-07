@@ -2,7 +2,9 @@
 
 **Cybersecurity Team Lead | Red Team | Penetration Testing | OSCP**
 
-Mor Golan is an OSCP certified cybersecurity team lead and vulnerability researcher at QMasters Cyber Security Services in Israel, leading penetration testing, cyber threat intelligence, DFIR, SOAR and vulnerability assessment. Working both sides of the attack lifecycle, Mor runs offensive engagements and leads incident response, and has published multiple CVEs through independent research. Mor is also an active bug bounty hunter on HackerOne, Bugcrowd, Intigriti and YesWeHack.
+I'm Mor Golan, an OSCP certified cybersecurity team lead and vulnerability researcher at QMasters Cyber Security Services in Israel, leading penetration testing, cyber threat intelligence, DFIR, SOAR and vulnerability assessment.\
+I work both sides of the attack lifecycle, running offensive engagements and leading incident response, and I have published multiple CVEs through independent research.\
+I'm also an active bug bounty hunter on HackerOne, Bugcrowd, Intigriti and YesWeHack.
 
 **Website:** [mor-golan.github.io](https://mor-golan.github.io)
 
